@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Omnya Ahmed
+ <h1> Hi, I’m Omnya Ahmed </h1>
 - 👀 I’m interested in Coding, reading and Wrtiting
 - 📫 How to reach me 
 
