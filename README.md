@@ -13,7 +13,7 @@
   - **Languages & Frameworks:** Java, Spring Boot, ReactJS, JavaScript, PHP, HTML, CSS, SQL.
   - **Database Management:** MySQL, MongoDB, SQL Server.
   - **Tools & Technologies:** GitLab CI/CD, Docker
-- 🚀 Currently working as a junior software engineer @ Orange innovation laps 🍊
+- 🚀 Currently working as a junior software engineer @ Orange innovation labs 🍊
  
 ---
 
